@@ -1,0 +1,11 @@
+venv/
+
+__pycache__/
+
+# OS / editor-specific
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+Thumbs.db
